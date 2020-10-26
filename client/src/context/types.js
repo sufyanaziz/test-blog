@@ -1,0 +1,13 @@
+export const SET_AUTHENTICATION = "SET_AUTHENTICATION";
+export const SET_UNAUTHENTICATION = "SET_UNAUTHENTICATION";
+export const SET_USER = "SET_USER";
+
+export const LOADING_USER = "LOADING_USER";
+export const SET_ERROR_USER = "SET_ERROR_USER";
+export const CLEAR_ERROR = "CLEAR_ERROR";
+
+export const SET_BLOG = "SET_BLOG";
+export const SET_BLOG_DETAIL = "SET_BLOG_DETAIL";
+export const LOADING_BLOG = "LOADING_BLOG";
+export const SET_ERROR_BLOG = "SET_ERROR_BLOG";
+export const CLEAR_ERROR_BLOG = "CLEAR_ERROR_BLOG";
